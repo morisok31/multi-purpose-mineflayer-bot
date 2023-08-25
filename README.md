@@ -6,7 +6,7 @@ Installing Node
 Javascript, often abbreviated to JS, is a programming language designed for the web. It is what makes most interactivity on the web possible.
 Node.js, often just Node, makes it possible to use Javascript outside of web browsers.
 
-So the first thing you have to do to get started is to install Node. You can get it here.
+So the first thing you have to do to get started is to install Node. You can get it [here](https://nodejs.org/en/download).
 After it is installed, open a command prompt (also known as a terminal) and then type node -v
 If you have installed Node correctly, it should return a version number. If it says it can't find the command, try installing it again.
 
