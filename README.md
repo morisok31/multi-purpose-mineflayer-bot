@@ -25,3 +25,4 @@ To install Mineflayer for example, run npm install mineflayer
 
 After Dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/Release), after dowloading you need to un zip and 
 
+==hi==
