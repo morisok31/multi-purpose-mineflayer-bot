@@ -13,3 +13,10 @@ If you have installed Node correctly, it should return a version number. If it s
 
 Javascript can be written in any basic text editor, but it is much easier if you use what is called an Integrated development environment(IDE)
 An IDE will help you write code because it can give you suggestions, or tell you if your code has potential problems. A good IDE to start with is Visual Studio Code(VSCode)
+
+Node Package manager
+The last thing you need to know is how to use the Node Package Manager.
+NPM is automatically installed when you install Node.
+NPM is used to get useful packages that other people created that can do useful things for you.
+You can search for packages on their website, and then install them using the npm install command in your terminal.
+To install Mineflayer for example, run npm install mineflayer
