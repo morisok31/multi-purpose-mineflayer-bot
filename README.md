@@ -23,5 +23,5 @@ To install Mineflayer for example, run npm install mineflayer
 
 # Installing
 
-After Dowloading the later release - https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/Release you need to un zip and 
-GitHub: https://github.com/topics/readme
+After Dowloading the later release -  you need to un zip and 
+[release(https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/Release)]
