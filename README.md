@@ -20,3 +20,7 @@ NPM is automatically installed when you install Node.
 NPM is used to get useful packages that other people created that can do useful things for you.
 You can search for packages on their website, and then install them using the npm install command in your terminal.
 To install Mineflayer for example, run npm install mineflayer
+
+# Installing
+
+After Dowloading the later release - https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/Release you need to un zip and 
