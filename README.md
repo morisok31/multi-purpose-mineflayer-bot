@@ -2,6 +2,7 @@
 # How to use
 
 Installing Node
+
 In this section you will learn the basics about Javascript, Node and NPM.
 
 Javascript, often abbreviated to JS, is a programming language designed for the web. It is what makes most interactivity on the web possible.
@@ -15,6 +16,7 @@ Javascript can be written in any basic text editor, but it is much easier if you
 An IDE will help you write code because it can give you suggestions, or tell you if your code has potential problems. A good IDE to start with is Visual Studio Code(VSCode)
 
 Node Package manager
+
 The last thing you need to know is how to use the Node Package Manager.
 NPM is automatically installed when you install Node.
 NPM is used to get useful packages that other people created that can do useful things for you.
