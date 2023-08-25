@@ -1,9 +1,7 @@
 # atgmaildotcom_mineflayer_bot
-# How to use
+# Prerequisites
 
 Installing Node
-
-In this section you will learn the basics about Javascript, Node and NPM.
 
 Javascript, often abbreviated to JS, is a programming language designed for the web. It is what makes most interactivity on the web possible.
 Node.js, often just Node, makes it possible to use Javascript outside of web browsers.
