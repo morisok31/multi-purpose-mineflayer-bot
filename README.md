@@ -23,6 +23,6 @@ To install Mineflayer for example, run npm install mineflayer
 
 # Installing
 
-After Dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/Release), after dowloading you need to un zip and 
+After Dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.1.1), after dowloading you need to un zip and 
 
 ==hi==
