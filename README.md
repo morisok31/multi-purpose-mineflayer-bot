@@ -13,16 +13,19 @@ If you have installed Node correctly, it should return a version number. If it s
 Javascript can be written in any basic text editor, but it is much easier if you use what is called an Integrated development environment(IDE)
 An IDE will help you write code because it can give you suggestions, or tell you if your code has potential problems. A good IDE to start with is Visual Studio Code(VSCode)
 
-Node Package manager
+Node Package manager (NPM)
 
 The last thing you need to know is how to use the Node Package Manager.
 NPM is automatically installed when you install Node.
 NPM is used to get useful packages that other people created that can do useful things for you.
 You can search for packages on their website, and then install them using the npm install command in your terminal.
-To install Mineflayer for example, run npm install mineflayer
 
 # Installing
 
-After Dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.1.1), after dowloading you need to un zip and 
+After Dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.1.1), after dowloading you need to unzip the file and and take the folder out it to any directory (folder) on your computer. Then, to start the bot you have to do:
 
-==hi==
+```
+node index.js <host> <port> <[username]> <[password]>
+```
+
+If you don't know what port the server uses, you can use [this](https://mcsrvstat.us/) website, also the `<[username]>` and `<[password]>` fields are fully optional, you <insert rest here>
