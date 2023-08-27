@@ -40,4 +40,20 @@ If you don't know what port the server uses, you can use [this](https://mcsrvsta
 
 # Usage
 
-Ojciec poszedł umyć zęby i czeka na dzioba
+To use the bot you have to know all the commands for it, unfortunetly, a full command wiki is still being made, so you have to go through the code and see what they do, if you are unsure, just ask us!
+
+Once you know all the commands, you can start accually using the bot. At first, it might seem hard and confusing, but you will get used to it!
+
+# FAQ
+
+Q: Where can i upload my suggestions for the bot modules?
+A: [Here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/issues)
+
+Q: Can I modify the code to fit my scenario?
+A: Yes, you can modify the code as much as you want, as long as you credit us, and all the plugin creators correctly.
+
+Q: I want to join the developer team, how can do it?
+A: At the moment we don't have the need for more developers, but if it will be neccessary, then we will update this answer.
+
+Q: I'm still a bit confised on how to use the bot, is there a YT tutorial for it?
+A: At the moment we don't have a YT tutorial showcasing our bot, but wherever we make one we will update this answer.
