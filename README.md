@@ -47,13 +47,17 @@ Once you know all the commands, you can start accually using the bot. At first, 
 # FAQ
 
 Q: Where can i upload my suggestions for the bot modules?
+
 A: [Here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/issues)
 
-Q: Can I modify the code to fit my scenario?\n
+Q: Can I modify the code to fit my scenario?
+
 A: Yes, you can modify the code as much as you want, as long as you credit us, and all the plugin creators correctly.
 
-Q: I want to join the developer team, how can do it?\n
+Q: I want to join the developer team, how can do it?
+
 A: At the moment we don't have the need for more developers, but if it will be neccessary, then we will update this answer.
 
-Q: I'm still a bit confised on how to use the bot, is there a YT tutorial for it?\n
+Q: I'm still a bit confised on how to use the bot, is there a YT tutorial for it?
+
 A: At the moment we don't have a YT tutorial showcasing our bot, but wherever we make one we will update this answer.
