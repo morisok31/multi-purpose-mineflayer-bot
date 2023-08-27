@@ -1,4 +1,4 @@
-# atgmaildotcom_mineflayer_bot
+# Multi-Purpose Mineflayer Bot
 # Prerequisites
 
 Installing Node
@@ -25,7 +25,7 @@ You can search for packages on their website, and then install them using the np
 After Dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.1.1), after dowloading you need to unzip the file and and take the folder out it to any directory (folder) on your computer. Then, to start the bot you have to do:
 
 ```
-node index.js <host> <port> <[username]> <[password]>
+node index.js <host> <port> <[username]> <[password]> <version>
 ```
 
-If you don't know what port the server uses, you can use [this](https://mcsrvstat.us/) website, also the `<[username]>` and `<[password]>` fields are fully optional, you <insert rest here>
+If you don't know what port the server uses, you can use [this](https://mcsrvstat.us/) website, also the `<[username]>` and `<[password]>` fields are fully optional, you 
