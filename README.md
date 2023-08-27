@@ -40,4 +40,4 @@ If you don't know what port the server uses, you can use [this](https://mcsrvsta
 
 # Usage
 
-Ojciec poszedł umyć zęby
+Ojciec poszedł umyć zęby i czeka na dzioba
