@@ -48,7 +48,7 @@ Once you know all the commands, you can start accually using the bot. At first, 
 
 Q: Where can i upload my suggestions for the bot modules?
 
-A: [Here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/issues)
+A: You can upload suggestions and bugs [here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/issues).
 
 Q: Can I modify the code to fit my scenario?
 
