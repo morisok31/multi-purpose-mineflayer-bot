@@ -12,7 +12,7 @@ After it is installed, open a command prompt (also known as a terminal) and then
 ```
 node -v
 ```
-If you have installed Node correctly, it should return a version number. Currently, the project runs on node.js version v18.17.1. If it says it can't find the command, try reinstalling it.
+If you have installed Node correctly, it should return a version number. Currently, the project runs on node.js version `v18.17.1`. If it says it can't find the command, try reinstalling it.
 
 Javascript can be written in any basic text editor, but it is much easier if you use what is called an Integrated Development Environment (IDE)
 An IDE will help you write code because it can give you suggestions, or tell you if your code has potential problems. A good IDE to start with is Visual Studio Code (VSCode)
