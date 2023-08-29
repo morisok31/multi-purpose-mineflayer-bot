@@ -64,4 +64,5 @@ A: At the moment we don't have a YT tutorial showcasing our bot, but wherever we
 
 # Support
 
-brrrrrrr
+Discord support server: {INSERT_LINK_HERE}
+Report issues [here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/issues)
