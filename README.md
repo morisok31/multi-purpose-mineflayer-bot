@@ -61,3 +61,7 @@ A: At the moment we don't have the need for more developers, but if it will be n
 Q: I'm still a bit confised on how to use the bot, is there a YT tutorial for it?
 
 A: At the moment we don't have a YT tutorial showcasing our bot, but wherever we make one we will update this answer.
+
+# Support
+
+brrrrrrr
