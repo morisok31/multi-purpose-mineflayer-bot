@@ -30,7 +30,7 @@ npm -v
 
 # Installing
 
-After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.1.1), after dowloading you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then, to start the bot you have to do:
+After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.2), after dowloading you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then, to start the bot you have to do:
 
 ```
 node index.js <host> <port> <[username]> <[password]> <version>
