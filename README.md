@@ -3,6 +3,8 @@
 
 # Chapters
 
+<ul>
+  <li>
 [Prequisities](https://github.com/morisok31/multi-purpose-mineflayer-bot#prerequisites)
 
 [Installing](https://github.com/morisok31/multi-purpose-mineflayer-bot#installing)
@@ -12,6 +14,8 @@
 [FAQ](https://github.com/morisok31/multi-purpose-mineflayer-bot#faq)
 
 [Support](https://github.com/morisok31/multi-purpose-mineflayer-bot#support)
+  </li>
+</ul>
 
 # Prerequisites
 
