@@ -39,9 +39,7 @@ node index.js <host> <port> <[username]> <[password]> <version>
 
 If you don't know what port the server uses, you can use [this](https://mcsrvstat.us/) website. Also the `<[username]>` and `<[password]>` fields are fully optional, you only use the `<[password]>` if you have an accual Minecraft account, and the `<[username]>` is there to determine what username you want the bot to have. If you use a "premium" Minecraft then it has to be a valid Minecraft account username, but if you do not, then you can use any username you want.
 
-To use the bot you have to know all the commands for it, unfortunetly, a full command wiki is still being made, so you have to go through the code and see what they do, if you are unsure, just ask us!
-
-Once you know all the commands, you can start accually using the bot. At first, it might seem hard and confusing, but you will get used to it!
+At first, it might seem hard and confusing, but you will get used to it! Once you know all the commands, you can start accually using the bot.
 
 # FAQ
 
