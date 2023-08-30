@@ -1,18 +1,6 @@
 # Multi-Purpose Mineflayer Bot
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Chapters
-
-[Prequisities](https://github.com/morisok31/multi-purpose-mineflayer-bot#prerequisites)
-
-[Installing](https://github.com/morisok31/multi-purpose-mineflayer-bot#installing)
-
-[Usage](https://github.com/morisok31/multi-purpose-mineflayer-bot#usage)
-
-[FAQ](https://github.com/morisok31/multi-purpose-mineflayer-bot#faq)
-
-[Support](https://github.com/morisok31/multi-purpose-mineflayer-bot#support)
-
 # Prerequisites
 
 Installing Node
