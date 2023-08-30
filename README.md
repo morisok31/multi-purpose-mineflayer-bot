@@ -29,7 +29,7 @@ To check if you have installed it correctly do:
 npm -v
 ```
 
-# Installing
+# Installation and Usage
 
 After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.2), after dowloading you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then, to start the bot you have to do:
 
@@ -38,8 +38,6 @@ node index.js <host> <port> <[username]> <[password]> <version>
 ```
 
 If you don't know what port the server uses, you can use [this](https://mcsrvstat.us/) website. Also the `<[username]>` and `<[password]>` fields are fully optional, you only use the `<[password]>` if you have an accual Minecraft account, and the `<[username]>` is there to determine what username you want the bot to have. If you use a "premium" Minecraft then it has to be a valid Minecraft account username, but if you do not, then you can use any username you want.
-
-# Usage
 
 To use the bot you have to know all the commands for it, unfortunetly, a full command wiki is still being made, so you have to go through the code and see what they do, if you are unsure, just ask us!
 
