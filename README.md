@@ -69,4 +69,4 @@ Add suggestions [here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot
 
 # Additional Info
 
-CLick here to watch the official [Youtube showcase](https://www.youtube.com/watch?v=TgluaZ4EUkc&ab_channel=MORISok)
+CLick here to watch the official [youtube showcase](https://www.youtube.com/watch?v=TgluaZ4EUkc&ab_channel=MORISok)!
