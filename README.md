@@ -16,9 +16,9 @@ node -v
 If you have installed Node correctly, it should return a version number. Currently, the project runs on node.js version `v18.17.1`. If it says it can't find the command, try reinstalling it.
 
 Javascript can be written in any basic text editor, but it is much easier if you use what is called an Integrated Development Environment (IDE)
-An IDE will help you write code because it can give you suggestions, or tell you if your code has potential problems. A good IDE to start with is Visual Studio Code (VSCode)
+An IDE will help you write code because it can give you suggestions, or tell you if your code has potential problems. A good IDE to start with is Visual Studio Code.
 
-Node Package manager (NPM)
+Node Package Manager (NPM)
 
 The last thing you need to know is how to use the Node Package Manager.
 NPM is automatically installed when you install Node.
@@ -31,7 +31,7 @@ npm -v
 
 # Installation and Usage
 
-After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.2.1), you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then run the `reinstallpackets.bat` file to install the packets, although if you are on MacOS, you have to follow [this](https://techanzone.com/how-to-run-bat-file-on-mac/) tutorial. After you have done that, to start the bot you have to do:
+After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.2.1), you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then run the `installpackets.bat` file to install the packets, although if you are on MacOS, you have to follow [this](https://techanzone.com/how-to-run-bat-file-on-mac/) tutorial. After you have done that, to start the bot you have to do:
 
 ```
 node index.js <host> <port> <[username]> <[password]> <version>
