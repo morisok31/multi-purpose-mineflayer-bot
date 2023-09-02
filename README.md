@@ -9,7 +9,7 @@ Javascript, often abbreviated to JS, is a programming language designed for the 
 Node.js, often just Node, makes it possible to use Javascript outside of web browsers.
 
 So the first thing you have to do to get started is to install Node. You can get it [here](https://nodejs.org/en/download).
-After it is installed, open a command prompt (also known as a terminal) and then type
+After it is installed, open a command prompt (also known as a terminal or console) and then type
 ```
 node -v
 ```
