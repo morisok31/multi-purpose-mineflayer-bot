@@ -8,7 +8,7 @@ Installing Node
 Javascript, often abbreviated to JS, is a programming language designed for the web. It is what makes most interactivity on the web possible.
 Node.js, often just Node, makes it possible to use Javascript outside of web browsers.
 
-So the first thing you have to do to get started is to install Node. You can get it ![here](https://nodejs.org/en/download).
+So the first thing you have to do to get started is to install Node. You can get it [here](https://nodejs.org/en/download).
 After it is installed, open a command prompt (also known as a terminal or console) and then type
 ```
 node -v
@@ -31,13 +31,13 @@ npm -v
 
 # Installation and Usage
 
-After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.2.1), you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then run the `installpackets.bat` file to install the packets, although if you are on MacOS, you have to follow ![this](https://techanzone.com/how-to-run-bat-file-on-mac/) tutorial. After you have done that, to start the bot you have to do:
+After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.2.1), you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then run the `installpackets.bat` file to install the packets, although if you are on MacOS, you have to follow [this](https://techanzone.com/how-to-run-bat-file-on-mac/) tutorial. After you have done that, to start the bot you have to do:
 
 ```
 node index.js <host> <port> <[username]> <[password]> <version>
 ```
 
-If you don't know what port the server uses, you can use ![this](https://mcsrvstat.us/) website. Also the `<[username]>` and `<[password]>` fields are fully optional, you only use the `<[password]>` if you have an accual Minecraft account, and the `<[username]>` is there to determine what username you want the bot to have. If you use a "premium" Minecraft then it has to be a valid Minecraft account username, but if you do not, then you can use any username you want.
+If you don't know what port the server uses, you can use [this](https://mcsrvstat.us/) website. Also the `<[username]>` and `<[password]>` fields are fully optional, you only use the `<[password]>` if you have an accual Minecraft account, and the `<[username]>` is there to determine what username you want the bot to have. If you use a "premium" Minecraft then it has to be a valid Minecraft account username, but if you do not, then you can use any username you want.
 
 At first, it might seem hard and confusing, but you will get used to it! Once you know all the commands, you can start accually using the bot.
 
@@ -45,7 +45,7 @@ At first, it might seem hard and confusing, but you will get used to it! Once yo
 
 Q: Where can i upload my suggestions for the bot modules?
 
-A: You can upload suggestions ![here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/pulls).
+A: You can upload suggestions [here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/pulls).
 
 Q: Can I modify the code to fit my scenario?
 
@@ -61,8 +61,8 @@ A: At the moment we don't have a YT tutorial showcasing our bot, but wherever we
 
 # Support
 
-Discord support server: ![Discord](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Discord support server: [Discord](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-Report issues ![here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/issues)
+Report issues [here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/issues)
 
-Add suggestions ![here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/pulls)
+Add suggestions [here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/pulls)
