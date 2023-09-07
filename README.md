@@ -31,7 +31,7 @@ npm -v
 
 # Installation and Usage
 
-After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.2.1), you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then run the `installpackets.bat` file to install the packets, although if you are on MacOS, you have to follow [this](https://techanzone.com/how-to-run-bat-file-on-mac/) tutorial. After you have done that, to start the bot you have to do:
+After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.2.2.1), you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then run the `installpackets.bat` file to install the packets, although if you are on MacOS, you have to follow [this](https://techanzone.com/how-to-run-bat-file-on-mac/) tutorial. After you have done that, to start the bot you have to do:
 
 ```
 node index.js <host> <port> <[username]> <[password]> <version>
