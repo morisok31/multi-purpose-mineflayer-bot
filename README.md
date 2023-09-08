@@ -66,7 +66,3 @@ Discord support server: [Discord](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Report issues [here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/issues)
 
 Add suggestions [here](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/pulls)
-
-# Contributors and plugin developers
-
-Still WIP[.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
