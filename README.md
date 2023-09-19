@@ -34,7 +34,7 @@ npm -v
 After dowloading the latest [release](https://github.com/morisok31/atgmaildotcom_mineflayer_bot/releases/tag/v1.2.2.1), you need to unzip the file and take the folder out it to any directory (folder) on your computer. Then run the `installpackets.bat` file to install the packets, although if you are on MacOS, you have to follow [this](https://techanzone.com/how-to-run-bat-file-on-mac/) tutorial. After you have done that, to start the bot you have to do:
 
 ```
-node index.js <host> <port> <[username]> <[password]> <version>
+node index.js <host> <port> <[username]> <version> <[password]>
 ```
 
 If you don't know what port the server uses, you can use [this](https://mcsrvstat.us/) website. Also the `<[username]>` and `<[password]>` fields are fully optional, you only use the `<[password]>` if you have an accual Minecraft account, and the `<[username]>` is there to determine what username you want the bot to have. If you use a "premium" Minecraft then it has to be a valid Minecraft account username, but if you do not, then you can use any username you want.
