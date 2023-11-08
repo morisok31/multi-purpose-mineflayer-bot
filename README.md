@@ -55,9 +55,9 @@ Q: I want to join the developer team, how can do it?
 
 A: At the moment we don't have the need for more developers, but if it will be neccessary, then we will update this answer.
 
-Q: I'm still a bit confused on how to use the bot, is there a YT tutorial for it?
+Q: I'm still a bit confused on how to use the bot, is there a youtube tutorial for it?
 
-A: At the moment we don't have a YT tutorial showcasing our bot, but wherever we make one we will update this answer.
+A: At the moment we don't have a youtube tutorial showcasing our bot, but wherever we make one we will update this answer.
 
 # Support
 
